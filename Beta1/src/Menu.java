@@ -5,6 +5,7 @@ public class Menu {
 		// TODO Auto-generated method stub
  System.out.println("hola mundo");
  System.err.println("dasdasdasdasda");
+ System.out.println("dsadawasd");
 	}
 
 }
